@@ -1,6 +1,6 @@
 Restaurant Review Sentiment Analysis using NLP
 
-
+----
 
 This project is a Natural Language Processing (NLP) application that analyzes restaurant reviews and predicts whether the sentiment is *Positive* or *Negative* using Machine Learning.
 
@@ -53,6 +53,8 @@ A simple web interface is built using Streamlit.
 6. Model predicts Positive or Negative sentiment
   
 7. Result is displayed on screen
+
+---
 
 Concepts Used :
 
