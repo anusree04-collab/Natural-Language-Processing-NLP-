@@ -1,5 +1,7 @@
 Restaurant Review Sentiment Analysis using NLP
 
+
+
 This project is a Natural Language Processing (NLP) application that analyzes restaurant reviews and predicts whether the sentiment is *Positive* or *Negative* using Machine Learning.
 
 It uses TF-IDF Vectorizer for text feature extraction and Logistic Regression for classification.  
